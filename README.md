@@ -6,4 +6,4 @@ Allows students to read the student profiles of club memnbers, to give them info
 There's a separate tab featured that permits executive members to create student profiles and edit them as well. 
 # How to run
 To test the program, start the client and server separately using npm start
-![alt text](https://i.ibb.co/YTRV3yc/Image-Of-React-App.png)
+![alt text](https://i.ibb.co/6Zxpj27/Screenshot-2023-05-05-200208.png)
